@@ -1,4 +1,4 @@
-package Eduson; //тест
+package Eduson; //тест коменетариев 
 
 
 class Array {
@@ -134,3 +134,4 @@ class IncreasingTheSequence {
     }
 
 }
+
