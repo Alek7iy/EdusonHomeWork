@@ -1,4 +1,4 @@
-package Eduson;
+package Eduson; //тест
 
 
 class Array {
@@ -132,4 +132,5 @@ class IncreasingTheSequence {
         System.out.println(IncreasingTheSequence(test));
         System.out.println(IncreasingTheSequence(test1));
     }
+
 }
